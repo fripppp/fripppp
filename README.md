@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fripppp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Keegan Potts (@fripppp)
+- 👀 I’m interested in terrible things.
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 I can be reached for any reasons at my email.
 
 <!---
 fripppp/fripppp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
